@@ -1,0 +1,7 @@
+# 过程材料与本地工具，不属于作品本身
+reference/
+.shots/
+.codex-autorunner/
+node_modules/
+*.log
+.DS_Store
